@@ -1,9 +1,9 @@
 //
-//  main.cpp
+//  date.cpp
 //  coursera
 //
-//  Created by Jian Hu on 27/12/2017.
-//  Copyright © 2017 Jian Hu. All rights reserved.
+//  Created by Jian Hu on 04/01/2018.
+//  Copyright © 2018 Jian Hu. All rights reserved.
 //
 
 #include <stdio.h>
