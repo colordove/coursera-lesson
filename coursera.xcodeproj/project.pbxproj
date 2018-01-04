@@ -23,8 +23,16 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BF5D3F711FFDF0BC00E46EE3 /* date.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = date.cpp; sourceTree = "<group>"; };
 		BF897A4B1FF3575F00D20AC3 /* coursera */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = coursera; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF897A4E1FF3575F00D20AC3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		BF897A581FF35D1D00D20AC3 /* float.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = float.cpp; sourceTree = "<group>"; };
+		BF897A591FF3634600D20AC3 /* if.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = if.cpp; sourceTree = "<group>"; };
+		BF897A5A1FF3646A00D20AC3 /* riddle.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = riddle.cpp; sourceTree = "<group>"; };
+		BF897A5B1FF365D400D20AC3 /* for.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = for.cpp; sourceTree = "<group>"; };
+		BF897A5C1FF3676A00D20AC3 /* array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = array.cpp; sourceTree = "<group>"; };
+		BFC5692D1FF4B0BD00EA5B0F /* bubblesorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bubblesorting.cpp; sourceTree = "<group>"; };
+		BFC5692E1FF608FA00EA5B0F /* selectionSorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = selectionSorting.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +66,14 @@
 			isa = PBXGroup;
 			children = (
 				BF897A4E1FF3575F00D20AC3 /* main.cpp */,
+				BF897A5C1FF3676A00D20AC3 /* array.cpp */,
+				BF897A5A1FF3646A00D20AC3 /* riddle.cpp */,
+				BF897A581FF35D1D00D20AC3 /* float.cpp */,
+				BF897A591FF3634600D20AC3 /* if.cpp */,
+				BF897A5B1FF365D400D20AC3 /* for.cpp */,
+				BFC5692D1FF4B0BD00EA5B0F /* bubblesorting.cpp */,
+				BFC5692E1FF608FA00EA5B0F /* selectionSorting.cpp */,
+				BF5D3F711FFDF0BC00E46EE3 /* date.cpp */,
 			);
 			path = coursera;
 			sourceTree = "<group>";
