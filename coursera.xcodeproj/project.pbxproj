@@ -23,6 +23,7 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		BF40F5952006375F005120ED /* absolute-value.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "absolute-value.cpp"; sourceTree = "<group>"; };
 		BF5D3F711FFDF0BC00E46EE3 /* date.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = date.cpp; sourceTree = "<group>"; };
 		BF5D3F721FFDF69E00E46EE3 /* odd-number-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "odd-number-sum.cpp"; sourceTree = "<group>"; };
 		BF897A4B1FF3575F00D20AC3 /* coursera */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = coursera; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -34,6 +35,10 @@
 		BF897A5C1FF3676A00D20AC3 /* array.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = array.cpp; sourceTree = "<group>"; };
 		BFC5692D1FF4B0BD00EA5B0F /* bubblesorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bubblesorting.cpp; sourceTree = "<group>"; };
 		BFC5692E1FF608FA00EA5B0F /* selectionSorting.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = selectionSorting.cpp; sourceTree = "<group>"; };
+		BFFC0D461FFFC43F0015CF29 /* bacteria.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = bacteria.cpp; sourceTree = "<group>"; };
+		BFFC0D471FFFC6520015CF29 /* apple-and-bug.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "apple-and-bug.cpp"; sourceTree = "<group>"; };
+		BFFC0D481FFFCCFD0015CF29 /* elephant-drink-water.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "elephant-drink-water.cpp"; sourceTree = "<group>"; };
+		BFFC0D492005A6AF0015CF29 /* highest-grade.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "highest-grade.cpp"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -76,6 +81,11 @@
 				BFC5692E1FF608FA00EA5B0F /* selectionSorting.cpp */,
 				BF5D3F711FFDF0BC00E46EE3 /* date.cpp */,
 				BF5D3F721FFDF69E00E46EE3 /* odd-number-sum.cpp */,
+				BFFC0D461FFFC43F0015CF29 /* bacteria.cpp */,
+				BFFC0D471FFFC6520015CF29 /* apple-and-bug.cpp */,
+				BFFC0D481FFFCCFD0015CF29 /* elephant-drink-water.cpp */,
+				BFFC0D492005A6AF0015CF29 /* highest-grade.cpp */,
+				BF40F5952006375F005120ED /* absolute-value.cpp */,
 			);
 			path = coursera;
 			sourceTree = "<group>";

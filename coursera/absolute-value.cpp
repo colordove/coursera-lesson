@@ -1,14 +1,13 @@
 //
-//  main.cpp
+//  absolute-value.cpp
 //  coursera
 //
-//  Created by Jian Hu on 27/12/2017.
-//  Copyright © 2017 Jian Hu. All rights reserved.
+//  Created by Jian Hu on 10/01/2018.
+//  Copyright © 2018 Jian Hu. All rights reserved.
 //
 
 #include <stdio.h>
 #include <iostream>
-#include <math.h>
 using namespace std;
 int main() {
     int ary[6];
@@ -33,4 +32,3 @@ int main() {
     //    print
     cout << result << endl;
 }
-
