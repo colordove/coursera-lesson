@@ -25,8 +25,11 @@
 /* Begin PBXFileReference section */
 		BF40F5952006375F005120ED /* absolute-value.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "absolute-value.cpp"; sourceTree = "<group>"; };
 		BF40F59620071C1E005120ED /* separate-int.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "separate-int.cpp"; sourceTree = "<group>"; };
+		BF40F59720072F57005120ED /* sizeof.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = sizeof.cpp; sourceTree = "<group>"; };
+		BF40F598200735F5005120ED /* hex.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = hex.cpp; sourceTree = "<group>"; };
 		BF5D3F711FFDF0BC00E46EE3 /* date.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = date.cpp; sourceTree = "<group>"; };
 		BF5D3F721FFDF69E00E46EE3 /* odd-number-sum.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "odd-number-sum.cpp"; sourceTree = "<group>"; };
+		BF76E23D2050D4F300E56FCE /* josephus-problem.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = "josephus-problem.cpp"; sourceTree = "<group>"; };
 		BF897A4B1FF3575F00D20AC3 /* coursera */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = coursera; sourceTree = BUILT_PRODUCTS_DIR; };
 		BF897A4E1FF3575F00D20AC3 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		BF897A581FF35D1D00D20AC3 /* float.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = float.cpp; sourceTree = "<group>"; };
@@ -88,6 +91,9 @@
 				BFFC0D492005A6AF0015CF29 /* highest-grade.cpp */,
 				BF40F5952006375F005120ED /* absolute-value.cpp */,
 				BF40F59620071C1E005120ED /* separate-int.cpp */,
+				BF40F598200735F5005120ED /* hex.cpp */,
+				BF40F59720072F57005120ED /* sizeof.cpp */,
+				BF76E23D2050D4F300E56FCE /* josephus-problem.cpp */,
 			);
 			path = coursera;
 			sourceTree = "<group>";
